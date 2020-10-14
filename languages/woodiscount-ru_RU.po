@@ -1,0 +1,301 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-28 16:33+0300\n"
+"PO-Revision-Date: 2020-09-28 16:36+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.1\n"
+"X-Poedit-Basepath: ../admin/partials\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-SearchPath-0: labels.php\n"
+
+#: labels.php:4
+msgid "WooCommerce All-in-One discounts & gifts"
+msgstr ""
+
+#: labels.php:5
+msgid "new discount"
+msgstr "новая скидка"
+
+#: labels.php:6
+msgid "save"
+msgstr "сохранить"
+
+#: labels.php:7
+msgid "close"
+msgstr "закрыть"
+
+#: labels.php:8 labels.php:16
+msgid "Discount Name"
+msgstr "Название скидки"
+
+#: labels.php:9
+msgid "Discount Type"
+msgstr "Тип скидки"
+
+#: labels.php:10
+msgid "Date From"
+msgstr "Дата начала"
+
+#: labels.php:11
+msgid "Date To"
+msgstr "Дата окончания"
+
+#: labels.php:12
+msgid "Edit"
+msgstr "Редактировать"
+
+#: labels.php:13
+msgid "Remove"
+msgstr "Удалить"
+
+#: labels.php:14
+msgid "Status"
+msgstr "Статус"
+
+#: labels.php:15
+msgid "Discount Editor"
+msgstr "Редактор скидок"
+
+#: labels.php:17
+msgid "Select Discount Type"
+msgstr "Выберите тип скидки"
+
+#: labels.php:18
+msgid "Discount Dates Range"
+msgstr "Выберите даты действия скидки"
+
+#: labels.php:19
+msgid "Select category"
+msgstr "Выбор категории"
+
+#: labels.php:20
+msgid "Select tag"
+msgstr "Выбор метки"
+
+#: labels.php:21
+msgid "Search product"
+msgstr "Поиск товаров"
+
+#: labels.php:22
+msgid "Min"
+msgstr "Min"
+
+#: labels.php:23
+msgid "Max"
+msgstr "Max"
+
+#: labels.php:24
+msgid "Discount"
+msgstr "Скидка"
+
+#: labels.php:25
+msgid "Discount name in Cart"
+msgstr "Название скидки в корзине"
+
+#: labels.php:26
+msgid "Active"
+msgstr "Действует"
+
+#: labels.php:27
+msgid "Out of Dates"
+msgstr "Не действует"
+
+#: labels.php:28
+msgid "Cart Subtotal Discount"
+msgstr "Скидка от суммы заказа"
+
+#: labels.php:29
+msgid "Product Discount"
+msgstr "Скидка на определенные товары"
+
+#: labels.php:30 labels.php:78
+msgid "Pay Less Take More"
+msgstr "Скидка типа 3 товара за 2"
+
+#: labels.php:31 labels.php:82
+msgid "Gift"
+msgstr "Подарок"
+
+#: labels.php:32
+msgid "Discount value, fix or %"
+msgstr "Размер скидки, % или фиксированный"
+
+#: labels.php:33
+msgid "Description for Product Page"
+msgstr "Текст для страницы товара"
+
+#: labels.php:34
+msgid "Description for Category Page"
+msgstr "Текст для страницы категории"
+
+#: labels.php:35
+msgid "Add to List"
+msgstr "Добавить"
+
+#: labels.php:36
+msgid "Items to Pay"
+msgstr "Сколько купить"
+
+#: labels.php:37
+msgid "Items to Take"
+msgstr "Сколько получить"
+
+#: labels.php:38
+msgid "Cart Subtotal for Gift"
+msgstr "Сумма заказа"
+
+#: labels.php:39
+msgid "Gift Products"
+msgstr "Подарочный товар"
+
+#: labels.php:40
+msgid "Common Settings"
+msgstr "Общие настройки"
+
+#: labels.php:41
+msgid "Cart Subtotal Settings"
+msgstr "Настройки скидки с суммы заказа"
+
+#: labels.php:42
+msgid "Product List"
+msgstr "Список товаров"
+
+#: labels.php:43
+msgid "Product Discount Settings"
+msgstr "Настройки скидки на товары"
+
+#: labels.php:44
+msgid "Pay Less Take More Discount Settings"
+msgstr "Настройки скидки \"3 за 2\""
+
+#: labels.php:45
+msgid "Gifts Settings"
+msgstr "Настройки подарка"
+
+#: labels.php:46
+msgid "Remove Discount"
+msgstr "Удалить скидку"
+
+#: labels.php:47
+msgid "Are you sure you want to remove this discount?"
+msgstr "Вы уверены, что хотите удалить эту скидку?"
+
+#: labels.php:48
+msgid "Name for this discount (any)."
+msgstr "Название скидки (любое)"
+
+#: labels.php:49
+msgid ""
+"Select a type of discount. Common: reduce cart subtotal; Products: set sale "
+"prices for selected products; Pay Less Take More: add free products to cart "
+"(condition - customer ) ; "
+msgstr "Выберите тип скидки"
+
+#: labels.php:50
+msgid ""
+"Dates range for discount. If dates are not selected, the discount will be "
+"active from now and forever."
+msgstr ""
+"Даты действия скидки. Если не выбраны, скидка будет действовать постоянно."
+
+#: labels.php:51
+msgid "Min and max values of cart subtotal, when the discount will be applied."
+msgstr ""
+"Минимальная и максимальная сумма заказа, при которых скидка будет "
+"действовать."
+
+#: labels.php:52
+msgid ""
+"The value of discount. You can enter fix sum (e.g. '100') or percent (e.g. "
+"'10%')."
+msgstr ""
+"Размер скидки. Можно ввести фиксированную сумму (например, \"100\") или "
+"процент (например, \"10%)."
+
+#: labels.php:53
+msgid "The name of discount that will be shown for customer on cart page."
+msgstr "Название скидки, которое покупатель увидит на странице корзины."
+
+#: labels.php:54
+msgid ""
+"Select products, categories and tags for which you want to apply this "
+"discount."
+msgstr ""
+"Выберите категории, метки или отдельные товары, на которые вы хотите сделать "
+"скидку."
+
+#: labels.php:55
+msgid "Text that will be displayed on product page (optional)."
+msgstr "Текст для страницы товара (необязательно)."
+
+#: labels.php:56
+msgid "Text that will be displayed on category page (optional)."
+msgstr "Текст для страницы категории (необязательно)."
+
+#: labels.php:57
+msgid ""
+"Number of products that customer have to put in the cart for taking free "
+"products."
+msgstr ""
+"Количество товара, которое покуаптель должен положить в корзину, чтобы "
+"получить бесплатные товары."
+
+#: labels.php:58
+msgid "Number of products that customer will receive in fact."
+msgstr "Количество товара, которе покупатель получит фактически."
+
+#: labels.php:59
+msgid ""
+"Select product that will be added to cart for free. It's recommended to "
+"create special products for this. Only one product can be selected for each "
+"Gift Discount."
+msgstr ""
+"Выберите продукт, который будет добавлен в корзину бесплатно. Для этого "
+"рекомендуется создавать специальные продукты с нулевой ценой. Только один "
+"продукт может быть выбран для каждой скидки типа Подарок."
+
+#: labels.php:60
+#, fuzzy
+#| msgid ""
+#| "Min and max values of cart subtotal, when the discount will be applied."
+msgid "Max value of cart subtotal can not be less or equal to min value."
+msgstr ""
+"Минимальная и максимальная сумма заказа, при которых скидка будет "
+"действовать."
+
+#: labels.php:61
+msgid ""
+"Items-to-take quantity can not be less or equal to items-to-pay quantity."
+msgstr ""
+"Количество товара для оплаты не может быть равно или больше количества "
+"товаров для получения."
+
+#: labels.php:62
+msgid "Start to type product name..."
+msgstr "Начните вводить название товара..."
+
+#: labels.php:63
+msgid "Select at least 1 product for this discount'"
+msgstr "Выберите по крайней мере 1 продукт для этой скидки"
+
+#: labels.php:70
+msgid "Common discount"
+msgstr "Скидка с суммы заказа"
+
+#: labels.php:74
+msgid "Product discount"
+msgstr "Скидка на конкретные товары"
+
+#~ msgid "Cart Subtotal more than"
+#~ msgstr "Сумма корзины от"
+
+#~ msgid "Cart Subtotal less than"
+#~ msgstr "Сумма корзины до"
